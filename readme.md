@@ -28,11 +28,13 @@ Aqui estão alguns exemplos de como o script interage com o usuário e as possí
 
 Exemplo 1: Interação com o Usuário
 ![Interagindo com Console](imagens/exemplo_interacao.png)
+
 O script solicita os parâmetros do usuário (número de palavras, tamanho da string e hash SHA-256 alvo).
 
 
 Exemplo 2: Busca e Encontrando a Passphrase
 ![Encontrando uma senha com base no SHA256](imagens/exemplo_busca.png)
+
 Após processar os vídeos, o script exibe as passphrases encontradas e valida se algum hash corresponde ao hash alvo.
 
 
