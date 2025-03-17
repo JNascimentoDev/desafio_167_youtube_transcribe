@@ -27,12 +27,12 @@ O script busca nas transcrições dos vídeos do canal **Mestre Cacatal**. Confi
 Aqui estão alguns exemplos de como o script interage com o usuário e as possíveis saídas.
 
 Exemplo 1: Interação com o Usuário
-![Interagindo com Console](images/exemplo_interacao.png)
+![Interagindo com Console](imagens/exemplo_interacao.png)
 O script solicita os parâmetros do usuário (número de palavras, tamanho da string e hash SHA-256 alvo).
 
 
 Exemplo 2: Busca e Encontrando a Passphrase
-![Encontrando uma senha com base no SHA256](images/exemplo_busca.png)
+![Encontrando uma senha com base no SHA256](imagens/exemplo_busca.png)
 Após processar os vídeos, o script exibe as passphrases encontradas e valida se algum hash corresponde ao hash alvo.
 
 
